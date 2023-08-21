@@ -1,3 +1,0 @@
-The abundance of information is overwhelming to the everyday user. We present a solution called The Search Engine Summarizer which takes in a query and optional arguments to fetch information from various sources such as News, Articles, blogs, forums, scientific articles, papers etc. The results are presented in a unique way pertaining to each type of document fetched. For example: A news article will have a Headline, quick summary of n lines; A forum will have a General consensus, emotion, inference etc; A paper will have quick intro, key findings, results etc.
-
-Powerful features like separating code blocks (for programming) are reserved for future work.
